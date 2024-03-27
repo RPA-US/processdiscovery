@@ -7,3 +7,5 @@ results -> Guarda temporalmente los resultados de la ejecución hasta la siguien
 (Para cuando se ejecuta manualmente paso a paso o se lanza la ejecución directamente desde las últimas celdas)
 
 Para lanzar el caso de estudio, se necesita tener en una carpeta 'resources' la carpeta 'sc_0_size50_Balanced'.
+
+Python 3.10.10
