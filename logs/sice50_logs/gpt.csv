@@ -1,0 +1,15 @@
+#;model_type;clustering_type;labeling;image_weight;text_weight;use_pca;n_components;New%;PathNotDisc%;Fitness;Precision;Generalizacion;Simplicidad;Silhoutte;Davies_Bould;Calinski_harab;Observaciones
+exec1;CLIP;hierarchical;automatic;0.5;0.5;False;Default;25.0;25;1;1.0;0.434314575;0.818181818;0.9055724;0.150520424;515.93;
+exec2;CLIP;hierarchical;automatic;0.5;0.5;True;Default;25.0;25;1;0.80952381;0.456992544;0.714285714;0.96234435;0.044490967;8462.0;
+exec3;CLIP;hierarchical;automatic;0.4;0.6;False;Default;25.0;25;1;1.0;0.434314575;0.818181818;0.9130751;0.1295227;926.48;
+exec4;CLIP;hierarchical;automatic;0.4;0.6;True;Default;25.0;25;1;0.804878049;0.473402477;0.692307692;0.9593065;0.047955863;18869.27;
+exec5;CLIP;hierarchical;automatic;0.2;0.8;False;Default;50.0;50;1;0.757575758;0.516470925;0.739130435;0.925741;0.096742264;1029.18;
+exec6;CLIP;hierarchical;automatic;0.2;0.8;True;Default;83.33;75;1;0.742424242;0.503288326;0.692307692;0.9944343;0.009096257;136212.29;
+exec7;CLIP;hierarchical;automatic;0.6;0.4;False;Default;25.0;25;1;1.0;0.434314575;0.818181818;0.89782614;0.174190121;333.46;
+exec8;CLIP;hierarchical;automatic;0.6;0.4;True;Default;25.0;25;1;0.80952381;0.456992544;0.714285714;0.9570324;0.051600011;4254.711;
+exec9;CLIP;hierarchical;automatic;0.8;0.2;False;Default;25.0;25;1;1.0;0.434314575;0.818181818;0.87738127;0.226278731;208.06;
+exec10;CLIP;hierarchical;automatic;0.8;0.2;True;Default;25.0;25;1;0.80952381;0.456992544;0.714285714;0.94067293;0.074033546;1527.3;
+exec11;VGG;hierarchical;automatic;;;False;Default;0.0;50;1;0.783783784;0.440380592;0.739130435;0.89114064;0.146058239;337.5640727;
+exec12;VGG;hierarchical;automatic;;;True;Default;0.0;50;1;0.783783784;0.440380592;0.739130435;0.9650482;0.050147526;4603.170117;
+exec13;Hash;hierarchical;automatic;;;False;Default;100.0;100;1;0.783783784;0.440380592;0.739130435;0.955373892;0.128011703;401.2173913;
+exec14;Hash;hierarchical;automatic;;;True;Default;100.0;100;1;0.783783784;0.440380592;0.739130435;0.961142521;0.077253366;1500.874747;

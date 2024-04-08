@@ -1,0 +1,24 @@
+
+Parámetros de la ejecución
+Modelo empleado: clip
+Peso texto: 0.5
+Peso imagen: 0.5
+Rango de clústeres: (2, 11)
+Usar PCA: False
+Número de componentes PCA: 0.95
+
+Descubrimiento de caminos
+Caminos a priori: ((1, 0, 3, 2, 8, 4), (1, 0, 3, 2, 9), (1, 0, 3, 2, 6), (1, 0, 3, 2, 7))
+Caminos iniciales: {(3, 8, 6, 5, 9), (3, 0, 6, 5, 2), (3, 8, 6, 5, 7), (3, 0, 6, 5, 4, 1)}
+Caminos finales: {(3, 8, 6, 5, 9), (3, 0, 6, 5, 2), (3, 8, 6, 5, 7), (3, 0, 6, 5, 4, 1)}
+Porcentaje de nuevos caminos: 100.00%
+Caminos no descubiertos: 100.00%
+
+Métricas a nivel del proceso (PM4PY)
+Fitness: 1.0
+Precisión: 0.7837837837837838
+Generalización: 0.44038059222874415
+Simplicidad: 0.7391304347826086
+
+Métricas de clusterización
+Clusterización: {'silhouette_score': 1.0, 'davies_bouldin_score': 0.0, 'calinski_harabasz_score': 1.0}

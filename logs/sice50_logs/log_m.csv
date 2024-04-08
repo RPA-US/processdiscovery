@@ -1,0 +1,47 @@
+Case;Activity;Variant;Timestamp;MorKeyb;Coor_X;Coor_Y;Click;features.experiment.GUI_category.name.TextInput;NameApp;Screenshot;header
+1;1_A;3;10:00:29;1;610;279;1;1;Mail;1_img.png;inbox (56) - antonio.martinez.ro
+1;2_B;3;10:00:31;0;;;1;1;Mail;2_img.png;proof of payment - antonio.ma
+1;3_C;3;10:00:33;1;640;364;;;Odoo;3_img.png;odoo - customers
+1;4_D;3;10:00:35;1;1458;205;0;0;Odoo;4_img.png;odoo - azure interior, brandon
+1;5_F;3;10:00:37;0;;;;;Zendesk;5_img.png;Zendesk
+2;1_A;4;10:00:39;1;1352;509;1;1;Mail;6_img.png;inbox (56) - antonio.martinez.ro
+2;2_B;4;10:00:41;0;;;1;1;Mail;7_img.png;proof of payment - antonio.ma
+2;3_C;4;10:00:43;1;474;222;;;Odoo;8_img.png;odoo - customers
+2;4_D;4;10:00:45;1;1196;215;0;0;Odoo;9_img.png;odoo - azure interior, brandon
+2;5_H;4;10:00:47;0;;;;;Odoo;10_img.png;odoo - azure interior, brandon
+2;6_G;4;10:00:49;0;;;;;Mail;11_img.png;odoo - azure interior, brandon
+3;1_A;4;10:00:51;1;1722;318;1;1;Mail;12_img.png;inbox (56) - antonio.martinez.ro
+3;2_B;4;10:00:53;0;;;1;1;Mail;13_img.png;proof of payment - antonio.ma
+3;3_C;4;10:00:55;1;422;336;;;Odoo;14_img.png;odoo - customers
+3;4_D;4;10:00:57;1;1556;171;0;0;Odoo;15_img.png;odoo - azure interior, brandon
+3;5_H;4;10:00:59;0;;;;;Odoo;16_img.png;odoo - azure interior, brandon
+3;6_G;4;10:01:01;0;;;;;Mail;17_img.png;odoo - azure interior, brandon
+4;1_A;2;10:01:03;1;1517;490;1;1;Mail;18_img.png;inbox (56) - antonio.martinez.ro
+4;2_B;2;10:01:05;0;;;1;1;Mail;19_img.png;proof of payment - antonio.ma
+4;3_C;2;10:01:07;1;756;345;;;Odoo;20_img.png;odoo - customers
+4;4_D;2;10:01:09;1;1533;179;0;0;Odoo;21_img.png;odoo - azure interior, brandon
+4;5_G;2;10:01:11;1;624;442;1;1;Odoo;22_img.png;odoo - azure interior, brandon
+5;1_A;2;10:01:13;1;1613;286;1;1;Mail;23_img.png;inbox (56) - antonio.martinez.ro
+5;2_B;2;10:01:15;0;;;1;1;Mail;24_img.png;proof of payment - antonio.ma
+5;3_C;2;10:01:17;1;695;308;;;Odoo;25_img.png;odoo - customers
+5;4_D;2;10:01:19;1;1275;159;0;0;Odoo;26_img.png;odoo - azure interior, brandon
+5;5_G;2;10:01:21;1;624;442;1;1;Odoo;27_img.png;odoo - azure interior, brandon
+6;1_A;1;10:01:23;1;705;461;1;1;Mail;28_img.png;inbox (56) - antonio.martinez.ro
+6;2_B;1;10:01:25;0;;;1;1;Mail;29_img.png;proof of payment - antonio.ma
+6;3_C;1;10:01:27;1;641;282;;;Odoo;30_img.png;odoo - customers
+6;4_D;1;10:01:29;1;1116;170;0;0;Odoo;31_img.png;odoo - azure interior, brandon
+6;5_E;1;10:01:31;1;624;442;1;1;Odoo;32_img.png;odoo - azure interior, brandon
+6;6_J;1;10:01:33;0;;;;;Odoo;33_img.png;odoo - azure interior, brandon
+6;7_D;1;10:01:35;0;;;;;Odoo;34_img.png;odoo - customers
+7;1_A;3;10:01:37;1;770;272;1;1;Mail;35_img.png;inbox (56) - antonio.martinez.ro
+7;2_B;3;10:01:39;0;;;1;1;Mail;36_img.png;proof of payment - antonio.ma
+7;3_C;3;10:01:41;1;630;361;;;Odoo;37_img.png;odoo - customers
+7;4_D;3;10:01:43;1;1101;234;0;0;Odoo;38_img.png;odoo - azure interior, brandon
+7;5_F;3;10:01:45;0;;;;;Zendesk;39_img.png;Zendesk
+8;1_A;1;10:01:47;1;1547;480;1;1;Mail;40_img.png;inbox (56) - antonio.martinez.ro
+8;2_B;1;10:01:49;0;;;1;1;Mail;41_img.png;proof of payment - antonio.ma
+8;3_C;1;10:01:51;1;641;400;;;Odoo;42_img.png;odoo - customers
+8;4_D;1;10:01:53;1;1158;270;0;0;Odoo;43_img.png;odoo - azure interior, brandon
+8;5_E;1;10:01:55;1;624;442;1;1;Odoo;44_img.png;odoo - azure interior, brandon
+8;6_J;1;10:01:57;0;;;;;Odoo;45_img.png;odoo - azure interior, brandon
+8;7_D;1;10:01:59;0;;;;;Odoo;46_img.png;odoo - customers
