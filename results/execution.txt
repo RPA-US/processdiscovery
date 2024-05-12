@@ -8,17 +8,17 @@ Usar PCA: False
 Número de componentes PCA: 0.95
 
 Descubrimiento de caminos
-Caminos a priori: ((1, 0, 3, 2, 8, 4), (1, 0, 3, 2, 9), (1, 0, 3, 2, 6), (1, 0, 3, 2, 7))
-Caminos iniciales: {(3, 8, 6, 5, 9), (3, 0, 6, 5, 2), (3, 8, 6, 5, 7), (3, 0, 6, 5, 4, 1)}
-Caminos finales: {(3, 8, 6, 5, 9), (3, 0, 6, 5, 2), (3, 8, 6, 5, 7), (3, 0, 6, 5, 4, 1)}
+Caminos a priori: ((7, 4, 2, 3, 1, 0), (7, 4, 6, 5), (7, 4, 6, 8))
+Caminos iniciales: {(7, 4, 5, 3, 1, 0, 0), (7, 4, 6, 2)}
+Caminos finales: {(7, 4, 5, 3, 1, 0), (7, 4, 6, 2)}
 Porcentaje de nuevos caminos: 100.00%
 Caminos no descubiertos: 100.00%
 
 Métricas a nivel del proceso (PM4PY)
 Fitness: 1.0
-Precisión: 0.7837837837837838
-Generalización: 0.44038059222874415
-Simplicidad: 0.7391304347826086
+Precisión: 1.0
+Generalización: 0.5918189132638589
+Simplicidad: 1.0
 
 Métricas de clusterización
-Clusterización: {'silhouette_score': 1.0, 'davies_bouldin_score': 0.0, 'calinski_harabasz_score': 1.0}
+Clusterización: {'silhouette_score': 0.7877544, 'davies_bouldin_score': 0.3645484251198382, 'calinski_harabasz_score': 168.78265097499747}

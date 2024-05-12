@@ -1,217 +1,105 @@
-ocel:eid,ocel:org:resource,ocel:concept:name,ocel:type:event,ocel:click:coorX,ocel:click:coorY,ocel:screenshot:screenW,ocel:screenshot:screenH,ocel:screenshot:name,header,ocel:timestamp,FileName,FileCompany,FileDescription,CommandLine,ActionNumber,Pid,ProgramId,FileId,FileVersion,combined_features,activity_label,process_id,case:concept:name,concept:name,time:timestamp
-3,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0004.JPEG,LOPE,2024-04-08 10:00:25+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,4.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False  True  True  True
- False False False False  True False False False  True  True False  True
- False False  True  True  True  True  True  True False False  True  True
-  True  True  True  True  True False  True  True  True False  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",0,1,1,0,2024-04-08 10:00:25+00:00
-4,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0005.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:27+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,5.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",3,1,1,3,2024-04-08 10:00:27+00:00
-5,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0006.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:29+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",6.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,1,1,6,2024-04-08 10:00:29+00:00
-6,User1,"User left click on ""UMC HR Management Platform - Employee details (document)"" in ""UMC HR Management Platform - Employee details - Google Chrome""",Mouse Left Click,1814.0,116.0,1920.0,1080.0,screenshot0007.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:31+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,7.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,1,1,7,2024-04-08 10:00:31+00:00
-7,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0008.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:33+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,8.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True False  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",1,1,1,1,2024-04-08 10:00:33+00:00
-8,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0009.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:35+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,9.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False  True  True False False False False False
- False  True  True  True  True  True False False False  True  True  True
- False  True False False False False False False False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",5,1,1,5,2024-04-08 10:00:35+00:00
-9,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0010.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:37+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,10.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True False  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",1,1,1,1,2024-04-08 10:00:37+00:00
-10,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0011.JPEG,"MARTINEZ ROJAS, ANTONIO",2024-04-08 10:00:39+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",11.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True False  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",2,1,1,2,2024-04-08 10:00:39+00:00
-11,User1,"User left click on ""UMC HR Management Platform - Employee details (document)"" in ""UMC HR Management Platform - Employee details - Google Chrome""",Mouse Left Click,1814.0,116.0,1920.0,1080.0,screenshot0012.JPEG,MAR,2024-04-08 10:00:41+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,12.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False  True  True  True
- False False False False  True False False False  True  True False  True
- False False  True  True  True  True  True  True False False  True  True
-  True  True  True  True  True False  True  True  True False  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",0,2,2,0,2024-04-08 10:00:41+00:00
-12,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0013.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:43+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,13.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",3,2,2,3,2024-04-08 10:00:43+00:00
-13,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0014.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:45+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,14.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,2,2,6,2024-04-08 10:00:45+00:00
-14,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0015.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:47+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,15.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,2,2,7,2024-04-08 10:00:47+00:00
-16,User1,"User left click on ""UMC HR Management Platform - Employee details (document)"" in ""UMC HR Management Platform - Employee details - Google Chrome""",Mouse Left Click,1814.0,116.0,1920.0,1080.0,screenshot0017.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:51+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,17.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False  True  True False False False False False
- False  True  True  True  True  True False False False  True  True  True
- False  True False False False False False False False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",5,2,2,5,2024-04-08 10:00:51+00:00
-17,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0018.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:53+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,18.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,2,2,7,2024-04-08 10:00:53+00:00
-18,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0019.JPEG,"MASIA CARRION, LIONEL",2024-04-08 10:00:55+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,19.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True False  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",2,2,2,2,2024-04-08 10:00:55+00:00
-19,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0020.JPEG,MASI,2024-04-08 10:00:57+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,20.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False  True  True  True
- False False False False  True False  True False  True False False  True
- False False  True  True  True  True  True  True False False  True  True
-  True  True  True  True  True False  True  True  True False  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",0,3,3,0,2024-04-08 10:00:57+00:00
-20,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0021.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:00:59+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",21.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,3,3,6,2024-04-08 10:00:59+00:00
-22,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0023.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:01:03+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,23.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,2024-04-08 10:01:03+00:00
-23,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0024.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:01:05+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,24.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
- False  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",9,3,3,9,2024-04-08 10:01:05+00:00
-24,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0025.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:01:07+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,25.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False  True  True False False False False False
- False  True  True  True  True  True False False False  True  True  True
-  True  True False False False False False False False False  True  True
- False False  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",4,3,3,4,2024-04-08 10:01:07+00:00
-25,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0026.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:01:09+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",26.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,2024-04-08 10:01:09+00:00
-26,User1,"User left click on ""UMC HR Management Platform - Employee details (document)"" in ""UMC HR Management Platform - Employee details - Google Chrome""",Mouse Left Click,1814.0,116.0,1920.0,1080.0,screenshot0027.JPEG,"MUNIZ CANALA, ANA",2024-04-08 10:01:11+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,27.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,3,3,6,2024-04-08 10:01:11+00:00
-27,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0028.JPEG,MUN,2024-04-08 10:01:13+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,28.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False  True  True  True
- False False False False  True False  True  True  True False False  True
- False False  True False  True  True  True  True False False  True  True
-  True  True  True  True  True False  True  True  True False  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",8,3,3,8,2024-04-08 10:01:13+00:00
-28,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0029.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:15+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,29.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",3,3,3,3,2024-04-08 10:01:15+00:00
-29,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0030.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:17+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,30.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,3,3,6,2024-04-08 10:01:17+00:00
-30,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0031.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:19+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",31.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,2024-04-08 10:01:19+00:00
-32,User1,"User left click on ""File Explorer - 1 running window (button)""",Mouse Left Click,464.0,1054.0,1920.0,1080.0,screenshot0033.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:23+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,33.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False  True  True False False False False False
- False  True  True  True  True  True False False False  True  True  True
- False  True False False False False False False False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",5,3,3,5,2024-04-08 10:01:23+00:00
-33,User1,"User left double click on ""Name (edit)"" in ""covid_entry_point""",Mouse Left Double Click,456.0,388.0,1920.0,1080.0,screenshot0034.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:25+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,34.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,2024-04-08 10:01:25+00:00
-34,User1,"User left click on ""Search by first name, last name, birthdate or id (edit)"" in ""UMC HR Management Platform - Google Chrome""",Mouse Left Click,1484.0,190.0,1920.0,1080.0,screenshot0035.JPEG,"BALVIN GUTIERREZ, JOSE",2024-04-08 10:01:27+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,35.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
-  True  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True False  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",2,3,3,2,2024-04-08 10:01:27+00:00
-35,User1,"User left click on ""Open (split button)"" in ""Open""",Mouse Left Click,1750.0,504.0,1920.0,1080.0,screenshot0036.JPEG,BALV,2024-04-08 10:01:29+00:00,CHROME.EXE,Google LLC,Google Chrome,"CHROME.EXE  --TYPE=UTILITY --UTILITY-SUB-TYPE=CHROME.MOJOM.UTILWIN --LANG=EN-US --SERVICE-SANDBOX-TYPE=NONE --MOJO-PLATFORM-CHANNEL-HANDLE=4512 --FIELD-TRIAL-HANDLE=1940,I,12517537696226441075,2549750398892976775,262144 /PREFETCH:8",36.0,8788.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False  True  True  True
- False False False False  True False  True  True  True False False  True
- False False  True False  True  True  True  True False False  True  True
-  True  True  True  True  True False  True  True  True False  True  True
-  True  True  True  True  True False  True  True False False False False
- False False False False]",8,3,3,8,2024-04-08 10:01:29+00:00
-36,,,,,,,,screenshot0047.JPEG,"LOPEZ GARCIA, RAQUEL",2024-04-08 10:01:31+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,37.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,3,3,6,2024-04-08 10:01:31+00:00
-38,,,,,,,,screenshot0049.JPEG,"LOPEZ GARCIA, RAQUEL",2024-04-08 10:01:35+00:00,EXPLORER.EXE,Microsoft Corporation,Windows Explorer,EXPLORER.EXE  /LOADSAVEDWINDOWS,39.0,1440.0,0000f519feec486de87ed73cb92d3cac802400000000,000008a3589a9016172702c75f16fe3c694b90942514,10.0.19041.2311 (WinBuild.160101.0800),"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,2024-04-08 10:01:35+00:00
-39,,,,,,,,screenshot0050.JPEG,"LOPEZ GARCIA, RAQUEL",2024-04-08 10:01:37+00:00,CHROME.EXE,Google LLC,Google Chrome,CHROME.EXE  --INCOGNITO,40.0,636.0,000652d5cb245d5f0247aa925403de126a2100000904,0000950b016899eff0a4bef659d163f52fb92a528109,113.0.5672.93,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
- False  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",9,3,3,9,2024-04-08 10:01:37+00:00
-40,,,,,,,,screenshot0051.JPEG,"LOPEZ GARCIA, RAQUEL",,,,,,,,,,,"[False False False False False  True  True False False False False False
- False  True  True  True  True  True False False False  True  True  True
-  True  True False False False False False False False False  True  True
- False False  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",4,3,3,4,
-41,,,,,,,,screenshot0052.JPEG,"LOPEZ GARCIA, RAQUEL",,,,,,,,,,,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True  True  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
- False  True  True  True  True  True  True  True False False False False
- False False False False]",7,3,3,7,
-42,,,,,,,,screenshot0053.JPEG,"LOPEZ GARCIA, RAQUEL",,,,,,,,,,,"[False False False False False False False False False False False False
- False False False False  True  True False False  True  True False  True
- False  True False False  True  True  True  True False False  True  True
-  True  True  True  True  True  True  True  True  True  True  True  True
-  True  True  True  True  True  True  True  True False False False False
- False False False False]",6,3,3,6,
+id,screenshot,timestamp,header,header_txt,combined_features,activity_label,process_id,case:concept:name,concept:name,time:timestamp
+1,1_img.png,2024-05-10 10:00:29+00:00,Odoo - Discuss,1_ocr.txt,"[-0.00399058 -0.00252308  0.00155621 ...  0.01465691 -0.00375801
+  0.01883252]",7,1,1,7,2024-05-10 10:00:29+00:00
+2,2_img.png,2024-05-10 10:00:31+00:00,Odoo - Invoices,2_ocr.txt,"[-0.00400803 -0.0171819  -0.00296738 ...  0.01362255  0.02914246
+  0.015286  ]",4,1,1,4,2024-05-10 10:00:31+00:00
+3,3_img.png,2024-05-10 10:00:33+00:00,Odoo - Customer Payments,3_ocr.txt,"[-0.00641354 -0.01040111 -0.00498518 ...  0.0151419   0.02397895
+  0.0278882 ]",5,1,1,5,2024-05-10 10:00:33+00:00
+4,4_img.png,2024-05-10 10:00:35+00:00,Odoo - Draft Payment,4_ocr.txt,"[-0.0042819  -0.02335245 -0.00532823 ...  0.01196227  0.02009823
+  0.01838724]",3,1,1,3,2024-05-10 10:00:35+00:00
+5,5_img.png,2024-05-10 10:00:37+00:00,Odoo - PBNK1/2024/00023,5_ocr.txt,"[-0.00238811 -0.02280278 -0.00366242 ... -0.00059347  0.00350571
+  0.01552894]",1,1,1,1,2024-05-10 10:00:37+00:00
+6,6_img.png,2024-05-10 10:00:39+00:00,Odoo - INV/2024/00008,6_ocr.txt,"[ 0.00546934 -0.01536298 -0.0008156  ...  0.01208646  0.01057584
+  0.01106604]",0,1,1,0,2024-05-10 10:00:39+00:00
+8,8_img.png,2024-05-10 10:00:43+00:00,Odoo - Discuss,8_ocr.txt,"[-0.00399058 -0.00252308  0.00155621 ...  0.01465691 -0.00375801
+  0.01883252]",7,2,2,7,2024-05-10 10:00:43+00:00
+9,9_img.png,2024-05-10 10:00:45+00:00,Odoo - Invoices,9_ocr.txt,"[ 7.2185190e-05 -1.5689231e-02 -3.4366909e-03 ...  1.3622552e-02
+  2.9142456e-02  1.5285997e-02]",4,2,2,4,2024-05-10 10:00:45+00:00
+10,10_img.png,2024-05-10 10:00:47+00:00,Odoo - Customer Payments,10_ocr.txt,"[-0.00836604 -0.01048065 -0.00474179 ...  0.0151419   0.02397895
+  0.0278882 ]",5,2,2,5,2024-05-10 10:00:47+00:00
+11,11_img.png,2024-05-10 10:00:49+00:00,Odoo - Draft Payment,11_ocr.txt,"[-0.00170316 -0.0230275  -0.00543056 ...  0.01196227  0.02009823
+  0.01838724]",3,2,2,3,2024-05-10 10:00:49+00:00
+12,12_img.png,2024-05-10 10:00:51+00:00,Odoo - PBNK1/2024/00024,12_ocr.txt,"[-0.00224302 -0.02211573 -0.00223003 ... -0.00082528  0.00391397
+  0.01491041]",1,2,2,1,2024-05-10 10:00:51+00:00
+13,13_img.png,2024-05-10 10:00:53+00:00,Odoo - INV/2024/00006,13_ocr.txt,"[ 0.00864861 -0.01787519  0.00042021 ...  0.01087103  0.01035691
+  0.01267319]",0,2,2,0,2024-05-10 10:00:53+00:00
+15,15_img.png,2024-05-10 10:00:57+00:00,Odoo - Discuss,15_ocr.txt,"[-0.00351198 -0.00285035  0.00200923 ...  0.01465691 -0.00375801
+  0.01883252]",7,3,3,7,2024-05-10 10:00:57+00:00
+16,16_img.png,2024-05-10 10:00:59+00:00,Odoo - Invoices,16_ocr.txt,"[-0.00271017 -0.01484614 -0.00446783 ...  0.01362255  0.02914246
+  0.015286  ]",4,3,3,4,2024-05-10 10:00:59+00:00
+17,17_img.png,2024-05-10 10:01:01+00:00,Odoo - Customers,17_ocr.txt,"[-0.00408503 -0.01367021  0.00067301 ...  0.0210133   0.01811671
+  0.01527546]",6,3,3,6,2024-05-10 10:01:01+00:00
+18,18_img.png,2024-05-10 10:01:03+00:00,Odoo - Customer View,18_ocr.txt,"[-0.01187168 -0.01238689 -0.00763443 ...  0.0148685   0.01100165
+  0.01576048]",2,3,3,2,2024-05-10 10:01:03+00:00
+19,19_img.png,2024-05-10 10:01:05+00:00,Odoo - Discuss,19_ocr.txt,"[-0.00297234 -0.00231603  0.00099516 ...  0.01465691 -0.00375801
+  0.01883252]",7,4,4,7,2024-05-10 10:01:05+00:00
+20,20_img.png,2024-05-10 10:01:07+00:00,Odoo - Invoices,20_ocr.txt,"[-0.00061235 -0.01546532 -0.00142883 ...  0.01362255  0.02914246
+  0.015286  ]",4,4,4,4,2024-05-10 10:01:07+00:00
+21,21_img.png,2024-05-10 10:01:09+00:00,Odoo - Customer Payments,21_ocr.txt,"[-0.00777994 -0.01252968 -0.00745843 ...  0.0151419   0.02397895
+  0.0278882 ]",5,4,4,5,2024-05-10 10:01:09+00:00
+22,22_img.png,2024-05-10 10:01:11+00:00,Odoo - Draft Payment,22_ocr.txt,"[-0.00362276 -0.02391934 -0.0049622  ...  0.01196227  0.02009823
+  0.01838724]",3,4,4,3,2024-05-10 10:01:11+00:00
+23,23_img.png,2024-05-10 10:01:13+00:00,Odoo - PBNK1/2024/00025,23_ocr.txt,"[-0.00163716 -0.02248191 -0.00330764 ... -0.0003931   0.00365867
+  0.01529976]",1,4,4,1,2024-05-10 10:01:13+00:00
+24,24_img.png,2024-05-10 10:01:15+00:00,Odoo - INV/2024/00004,24_ocr.txt,"[ 0.01029063 -0.01254335  0.0062367  ...  0.01044431  0.01053596
+  0.01236483]",0,4,4,0,2024-05-10 10:01:15+00:00
+26,26_img.png,2024-05-10 10:01:19+00:00,Odoo - Discuss,26_ocr.txt,"[-0.00336872 -0.00347841  0.00157748 ...  0.01465691 -0.00375801
+  0.01883252]",7,5,5,7,2024-05-10 10:01:19+00:00
+27,27_img.png,2024-05-10 10:01:21+00:00,Odoo - Invoices,27_ocr.txt,"[-0.0035481  -0.01722148 -0.00484389 ...  0.01362255  0.02914246
+  0.015286  ]",4,5,5,4,2024-05-10 10:01:21+00:00
+28,28_img.png,2024-05-10 10:01:23+00:00,Odoo - Customers,28_ocr.txt,"[-0.00460456 -0.012085   -0.00086267 ...  0.0210133   0.01811671
+  0.01527546]",6,5,5,6,2024-05-10 10:01:23+00:00
+29,29_img.png,2024-05-10 10:01:25+00:00,Odoo - Customer View,29_ocr.txt,"[-0.011317   -0.01170698 -0.00731294 ...  0.0148685   0.01100165
+  0.01576048]",2,5,5,2,2024-05-10 10:01:25+00:00
+30,30_img.png,2024-05-10 10:01:27+00:00,Odoo - Discuss,30_ocr.txt,"[-0.00399058 -0.00252308  0.00155621 ...  0.01465691 -0.00375801
+  0.01883252]",7,6,6,7,2024-05-10 10:01:27+00:00
+31,31_img.png,2024-05-10 10:01:29+00:00,Odoo - Invoices,31_ocr.txt,"[-0.00201278 -0.0192302  -0.002188   ...  0.01362255  0.02914246
+  0.015286  ]",4,6,6,4,2024-05-10 10:01:29+00:00
+32,32_img.png,2024-05-10 10:01:31+00:00,Odoo - Customer Payments,32_ocr.txt,"[-0.00909188 -0.01183606 -0.00557906 ...  0.0151419   0.02397895
+  0.0278882 ]",5,6,6,5,2024-05-10 10:01:31+00:00
+33,33_img.png,2024-05-10 10:01:33+00:00,Odoo - Draft Payment,33_ocr.txt,"[-0.0047569  -0.0244925  -0.00437878 ...  0.01196227  0.02009823
+  0.01838724]",3,6,6,3,2024-05-10 10:01:33+00:00
+34,34_img.png,2024-05-10 10:01:35+00:00,Odoo - PBNK1/2024/00026,34_ocr.txt,"[-0.00115359 -0.02432942 -0.00194753 ... -0.00109469  0.00442185
+  0.01536545]",1,6,6,1,2024-05-10 10:01:35+00:00
+35,35_img.png,2024-05-10 10:01:37+00:00,Odoo - INV/2024/00009,35_ocr.txt,"[ 0.00773532 -0.01843399  0.0011936  ...  0.01161217  0.01049275
+  0.01146085]",0,6,6,0,2024-05-10 10:01:37+00:00
+37,37_img.png,2024-05-10 10:01:41+00:00,Odoo - Discuss,37_ocr.txt,"[-0.00356336 -0.00311167  0.00214351 ...  0.01465691 -0.00375801
+  0.01883252]",7,7,7,7,2024-05-10 10:01:41+00:00
+38,38_img.png,2024-05-10 10:01:43+00:00,Odoo - Invoices,38_ocr.txt,"[-0.00297884 -0.01680838 -0.00456385 ...  0.01362255  0.02914246
+  0.015286  ]",4,7,7,4,2024-05-10 10:01:43+00:00
+39,39_img.png,2024-05-10 10:01:45+00:00,Odoo - Customers,39_ocr.txt,"[-0.00441917 -0.01218165 -0.00111428 ...  0.0210133   0.01811671
+  0.01527546]",6,7,7,6,2024-05-10 10:01:45+00:00
+40,40_img.png,2024-05-10 10:01:47+00:00,Odoo - Customer View,40_ocr.txt,"[-0.0053084  -0.01752298 -0.00771546 ...  0.0148685   0.01100165
+  0.01576048]",2,7,7,2,2024-05-10 10:01:47+00:00
+41,41_img.png,2024-05-10 10:01:49+00:00,Odoo - Discuss,41_ocr.txt,"[-0.00297234 -0.00231603  0.00099516 ...  0.01465691 -0.00375801
+  0.01883252]",7,8,8,7,2024-05-10 10:01:49+00:00
+42,42_img.png,2024-05-10 10:01:51+00:00,Odoo - Invoices,42_ocr.txt,"[-0.00067924 -0.01925146 -0.00347848 ...  0.01362255  0.02914246
+  0.015286  ]",4,8,8,4,2024-05-10 10:01:51+00:00
+43,43_img.png,2024-05-10 10:01:53+00:00,Odoo - Customer Payments,43_ocr.txt,"[-0.00811979 -0.00923908 -0.00512296 ...  0.0151419   0.02397895
+  0.0278882 ]",5,8,8,5,2024-05-10 10:01:53+00:00
+44,44_img.png,2024-05-10 10:01:55+00:00,Odoo - Draft Payment,44_ocr.txt,"[-0.00354854 -0.02361372 -0.00506308 ...  0.01196227  0.02009823
+  0.01838724]",3,8,8,3,2024-05-10 10:01:55+00:00
+45,45_img.png,2024-05-10 10:01:57+00:00,Odoo - PBNK1/2024/00027,45_ocr.txt,"[-0.00327391 -0.02380373 -0.00425718 ... -0.00457496  0.00426073
+  0.01470055]",1,8,8,1,2024-05-10 10:01:57+00:00
+46,46_img.png,2024-05-10 10:01:59+00:00,Odoo - INV/2024/00005,46_ocr.txt,"[ 0.00757036 -0.01792529  0.00248781 ...  0.00999044  0.01034637
+  0.01177583]",0,8,8,0,2024-05-10 10:01:59+00:00
+48,48_img.png,2024-05-10 10:02:03+00:00,Odoo - Discuss,48_ocr.txt,"[-0.00273533 -0.00226218  0.00067754 ...  0.01465691 -0.00375801
+  0.01883252]",7,9,9,7,2024-05-10 10:02:03+00:00
+49,49_img.png,2024-05-10 10:02:05+00:00,Odoo - Invoices,49_ocr.txt,"[-0.00243202 -0.01815632 -0.00378477 ...  0.01362255  0.02914246
+  0.015286  ]",4,9,9,4,2024-05-10 10:02:05+00:00
+50,50_img.png,2024-05-10 10:02:07+00:00,Odoo - Customers,50_ocr.txt,"[-0.00460456 -0.012085   -0.00086267 ...  0.0210133   0.01811671
+  0.01527546]",6,9,9,6,2024-05-10 10:02:07+00:00
+51,51_img.png,2024-05-10 10:02:09+00:00,Odoo - Customer View,51_ocr.txt,"[-0.00560556 -0.01874765 -0.00785064 ...  0.0148685   0.01100165
+  0.01576048]",2,9,9,2,2024-05-10 10:02:09+00:00
+52,52_img.png,2024-05-10 10:02:11+00:00,Odoo - Discuss,52_ocr.txt,"[-0.00440291 -0.00334492  0.00149531 ...  0.01465691 -0.00375801
+  0.01883252]",7,10,10,7,2024-05-10 10:02:11+00:00
+53,53_img.png,2024-05-10 10:02:13+00:00,Odoo - Invoices,53_ocr.txt,"[-0.00389589 -0.01972448 -0.00298771 ...  0.01362255  0.02914246
+  0.015286  ]",4,10,10,4,2024-05-10 10:02:13+00:00
+54,54_img.png,2024-05-10 10:02:15+00:00,Odoo - Customer Payments,54_ocr.txt,"[-0.01143399 -0.01205644 -0.00609964 ...  0.0151419   0.02397895
+  0.0278882 ]",5,10,10,5,2024-05-10 10:02:15+00:00
+55,55_img.png,2024-05-10 10:02:17+00:00,Odoo - Draft Payment,55_ocr.txt,"[-0.0022824  -0.02346302 -0.00588973 ...  0.01196227  0.02009823
+  0.01838724]",3,10,10,3,2024-05-10 10:02:17+00:00
+56,56_img.png,2024-05-10 10:02:19+00:00,Odoo - PBNK1/2024/00029,56_ocr.txt,"[-0.00300217 -0.0223686  -0.00355636 ... -0.00242023  0.00503605
+  0.01578044]",1,10,10,1,2024-05-10 10:02:19+00:00
+57,57_img.png,2024-05-10 10:02:23+00:00,Odoo - INV/2024/00001,57_ocr.txt,"[ 0.01431983 -0.01518929  0.00758111 ...  0.01088215  0.01155521
+  0.01216191]",0,10,10,0,2024-05-10 10:02:23+00:00
