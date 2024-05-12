@@ -1,0 +1,15 @@
+#;model_type;clustering_type;labeling;image_weight;text_weight;use_pca;n_components;New%;PathNotDisc%;Fitness;Precision;Generalizacion;Simplicidad;Silhoutte;Davies_Bould;Calinski_harab;Observaciones
+exec29;CLIP;hierarchical;automatic;0,5;0,5;FALSE;Default;0;0;1;1;0.53559;0.89473;0.80841;0.30320;183.115;
+exec30;CLIP;hierarchical;automatic;0,5;0,5;TRUE;Default;0;0;1;1;0.53559;0.89473;0.94103;0.09923;1622.69;
+exec31;CLIP;hierarchical;automatic;0,4;0,6;FALSE;Default;0;0;1;1;0.53559;0.89473;0.85176;0.22853;302.33;
+exec32;CLIP;hierarchical;automatic;0,4;0,6;TRUE;Default;0;0;1;1;0.53559;0.89473;0.96739;0.04921;6650.40;
+exec33;CLIP;hierarchical;automatic;0,2;0,8;FALSE;Default;0;0;1;1;0.53559;0.89473;0.92946;0.11004;1260.90;
+exec34;CLIP;hierarchical;automatic;0,2;0,8;TRUE;Default;0;0;1;1;0.53559;0.89473;0.98989;0.01710;45164.7;
+exec35;CLIP;hierarchical;automatic;0,6;0,4;FALSE;Default;0;0;1;1;0.53559;0.89473;0.76660;0.38075;127.45;
+exec36;CLIP;hierarchical;automatic;0,6;0,4;TRUE;Default;0;0;1;1;0.53559;0.89473;0.90918;0.16589;665.73;
+exec37;CLIP;hierarchical;automatic;0,8;0,2;FALSE;Default;0;0;1;1;0.53559;0.89473;0.67634;0.49002;126.01;
+exec38;CLIP;hierarchical;automatic;0,8;0,2;TRUE;Default;0;0;1;1;0.53559;0.89473;0.83696;0.26336;508.82;
+exec39;VGG;hierarchical;automatic;N/A;N/A;FALSE;Default;100;100;1;1;0.52078;0.83333;0.53424;0.76093;39.520;
+exec40;VGG;hierarchical;automatic;N/A;N/A;TRUE;Default;100;100;1;1;0.52078;0.83333;0.65582;0.59331;64.12;
+exec41;Hash;hierarchical;automatic;N/A;N/A;FALSE;Default;100;100;1;0.2625;0.47152;0.625;0.37843;1.243;15.069;
+exec42;Hash;hierarchical;automatic;N/A;N/A;TRUE;Default;100;100;1;0.2625;0.47152;0.625;0.41863;1.147;17.720;
