@@ -1,59 +1,59 @@
-﻿id;screenshot;timestamp;header;header_txt
-1;1_img.png;10:00:29;"""Test Mails"" (2) - joseluisalro20@";1_ocr.txt
-2;2_img.png;10:00:31;Proof of Payment - joseluisalro2;2_ocr.txt
-3;3_img.png;10:00:33;Odoo - Customers;3_ocr.txt
-4;4_img.png;10:00:35;Odoo - Azure Interior, Nicole Fo;4_ocr.txt
-5;5_img.png;10:00:37;"""Test Mails"" (2) - joseluisalro20@";5_ocr.txt
-6;6_img.png;10:00:39;"""Test Mails"" (2) - joseluisalro20@";6_ocr.txt
-7;7_img.png;10:00:41;Proof of Payment - joseluisalro2;7_ocr.txt
-8;8_img.png;10:00:43;Odoo - Customers;8_ocr.txt
-9;9_img.png;10:00:45;Odoo - Deco Addict, Douglas Fl;9_ocr.txt
-10;10_img.png;10:00:47;Odoo - INV/2024/00001;10_ocr.txt
-11;11_img.png;10:00:51;"""Test Mails"" (2) - joseluisalro20@";11_ocr.txt
-12;12_img.png;10:00:53;Proof of Payment - joseluisalro2;12_ocr.txt
-13;13_img.png;10:00:55;Odoo - Customers;13_ocr.txt
-14;14_img.png;10:00:57;Odoo - Deco Addict, Floyd Stew;14_ocr.txt
-15;15_img.png;10:00:59;Odoo - INV/2024/00004;15_ocr.txt
-16;16_img.png;10:01:03;"""Test Mails"" (2) - joseluisalro20@";16_ocr.txt
-17;17_img.png;10:01:05;Proof of Payment - joseluisalro2;17_ocr.txt
-18;18_img.png;10:01:07;Odoo - Customers;18_ocr.txt
-19;19_img.png;10:01:09;Odoo - Gemini Furniture, Edwin;19_ocr.txt
-20;20_img.png;10:01:11;Ticket: About Proof of Payment;20_ocr.txt
-21;21_img.png;10:01:13;"""Test Mails"" (2) - joseluisalro20@";21_ocr.txt
-22;22_img.png;10:01:15;Proof of Payment - joseluisalro2;22_ocr.txt
-23;23_img.png;10:01:17;Odoo - Customers;23_ocr.txt
-24;24_img.png;10:01:19;Odoo - Lumber Inc, Lorraine Do;24_ocr.txt
-25;25_img.png;10:01:21;Ticket: About Proof of Payment;25_ocr.txt
-26;26_img.png;10:01:23;"""Test Mails"" (2) - joseluisalro20@";26_ocr.txt
-27;27_img.png;10:01:25;Proof of Payment - joseluisalro2;27_ocr.txt
-28;28_img.png;10:01:27;Odoo - Customers;28_ocr.txt
-29;29_img.png;10:01:29;Odoo - Azure Interior, Brandon;29_ocr.txt
-30;30_img.png;10:01:31;Odoo - Azure Interior, Brandon;30_ocr.txt
-31;31_img.png;10:01:33;Odoo - Azure Interior, Brandon;31_ocr.txt
-32;32_img.png;10:01:35;Odoo - Customers;32_ocr.txt
-33;33_img.png;10:01:37;"""Test Mails"" (2) - joseluisalro20@";33_ocr.txt
-34;34_img.png;10:01:39;Proof of Payment - joseluisalro2;34_ocr.txt
-35;35_img.png;10:01:41;Odoo - Customers;35_ocr.txt
-36;36_img.png;10:01:43;Odoo - Gemini Furniture, Jesse;36_ocr.txt
-37;37_img.png;10:01:45;"""Test Mails"" (2) - joseluisalro20@";37_ocr.txt
-38;38_img.png;10:01:47;"""Test Mails"" (2) - joseluisalro20@";38_ocr.txt
-39;39_img.png;10:01:49;Proof of Payment - joseluisalro2;39_ocr.txt
-40;40_img.png;10:01:51;Odoo - Customers;40_ocr.txt
-41;41_img.png;10:01:53;Odoo - Gemini Furniture, Sohan;41_ocr.txt
-42;42_img.png;10:01:55;Odoo - Gemini Furniture, Sohan;42_ocr.txt
-43;43_img.png;10:01:57;Odoo - Gemini Furniture, Sohan;43_ocr.txt
-44;44_img.png;10:01:59;Odoo - Customers;44_ocr.txt
-45;45_img.png;10:02:01;"""Test Mails"" (2) - joseluisalro20@";45_ocr.txt
-46;46_img.png;10:02:03;Proof of Payment - joseluisalro2;46_ocr.txt
-47;47_img.png;10:02:05;Odoo - Customers;47_ocr.txt
-48;48_img.png;10:02:07;Odoo - Gemini Furniture, Oscar;48_ocr.txt
-49;49_img.png;10:02:09;Odoo - Gemini Furniture, Oscar;49_ocr.txt
-50;50_img.png;10:02:11;Odoo - Gemini Furniture, Oscar;50_ocr.txt
-51;51_img.png;10:02:13;Odoo - Customers;51_ocr.txt
-52;52_img.png;10:02:15;"""Test Mails"" (2) - joseluisalro20@";52_ocr.txt
-53;53_img.png;10:02:17;Proof of Payment - joseluisalro2;53_ocr.txt
-54;54_img.png;10:02:19;Odoo - Customers;54_ocr.txt
-55;55_img.png;10:02:21;Odoo - Ready Mat, Billy Fox;55_ocr.txt
-56;56_img.png;10:02:23;Odoo - Ready Mat, Billy Fox;56_ocr.txt
-57;57_img.png;10:02:25;Odoo - Ready Mat, Billy Fox;57_ocr.txt
-58;58_img.png;10:02:27;Odoo - Customers;58_ocr.txt
+﻿id;screenshot;timestamp;header;header_txt;ground_truth
+1;1_img.png;10:00:29;"""Test Mails"" (2) - joseluisalro20@";1_ocr.txt;1
+2;2_img.png;10:00:31;Proof of Payment - joseluisalro2;2_ocr.txt;2
+3;3_img.png;10:00:33;Odoo - Customers;3_ocr.txt;3
+4;4_img.png;10:00:35;Odoo - Azure Interior, Nicole Fo;4_ocr.txt;4
+5;5_img.png;10:00:37;"""Test Mails"" (2) - joseluisalro20@";5_ocr.txt;5
+6;6_img.png;10:00:39;"""Test Mails"" (2) - joseluisalro20@";6_ocr.txt;1
+7;7_img.png;10:00:41;Proof of Payment - joseluisalro2;7_ocr.txt;2
+8;8_img.png;10:00:43;Odoo - Customers;8_ocr.txt;3
+9;9_img.png;10:00:45;Odoo - Deco Addict, Douglas Fl;9_ocr.txt;4
+10;10_img.png;10:00:47;Odoo - INV/2024/00001;10_ocr.txt;6
+11;11_img.png;10:00:51;"""Test Mails"" (2) - joseluisalro20@";11_ocr.txt;1
+12;12_img.png;10:00:53;Proof of Payment - joseluisalro2;12_ocr.txt;2
+13;13_img.png;10:00:55;Odoo - Customers;13_ocr.txt;3
+14;14_img.png;10:00:57;Odoo - Deco Addict, Floyd Stew;14_ocr.txt;4
+15;15_img.png;10:00:59;Odoo - INV/2024/00004;15_ocr.txt;6
+16;16_img.png;10:01:03;"""Test Mails"" (2) - joseluisalro20@";16_ocr.txt;1
+17;17_img.png;10:01:05;Proof of Payment - joseluisalro2;17_ocr.txt;2
+18;18_img.png;10:01:07;Odoo - Customers;18_ocr.txt;3
+19;19_img.png;10:01:09;Odoo - Gemini Furniture, Edwin;19_ocr.txt;4
+20;20_img.png;10:01:11;Ticket: About Proof of Payment;20_ocr.txt;7
+21;21_img.png;10:01:13;"""Test Mails"" (2) - joseluisalro20@";21_ocr.txt;1
+22;22_img.png;10:01:15;Proof of Payment - joseluisalro2;22_ocr.txt;2
+23;23_img.png;10:01:17;Odoo - Customers;23_ocr.txt;3
+24;24_img.png;10:01:19;Odoo - Lumber Inc, Lorraine Do;24_ocr.txt;4
+25;25_img.png;10:01:21;Ticket: About Proof of Payment;25_ocr.txt;7
+26;26_img.png;10:01:23;"""Test Mails"" (2) - joseluisalro20@";26_ocr.txt;1
+27;27_img.png;10:01:25;Proof of Payment - joseluisalro2;27_ocr.txt;2
+28;28_img.png;10:01:27;Odoo - Customers;28_ocr.txt;3
+29;29_img.png;10:01:29;Odoo - Azure Interior, Brandon;29_ocr.txt;4
+30;30_img.png;10:01:31;Odoo - Azure Interior, Brandon;30_ocr.txt;4
+31;31_img.png;10:01:33;Odoo - Azure Interior, Brandon;31_ocr.txt;8
+32;32_img.png;10:01:35;Odoo - Customers;32_ocr.txt;3
+33;33_img.png;10:01:37;"""Test Mails"" (2) - joseluisalro20@";33_ocr.txt;1
+34;34_img.png;10:01:39;Proof of Payment - joseluisalro2;34_ocr.txt;2
+35;35_img.png;10:01:41;Odoo - Customers;35_ocr.txt;3
+36;36_img.png;10:01:43;Odoo - Gemini Furniture, Jesse;36_ocr.txt;4
+37;37_img.png;10:01:45;"""Test Mails"" (2) - joseluisalro20@";37_ocr.txt;5
+38;38_img.png;10:01:47;"""Test Mails"" (2) - joseluisalro20@";38_ocr.txt;1
+39;39_img.png;10:01:49;Proof of Payment - joseluisalro2;39_ocr.txt;2
+40;40_img.png;10:01:51;Odoo - Customers;40_ocr.txt;3
+41;41_img.png;10:01:53;Odoo - Gemini Furniture, Sohan;41_ocr.txt;4
+42;42_img.png;10:01:55;Odoo - Gemini Furniture, Sohan;42_ocr.txt;4
+43;43_img.png;10:01:57;Odoo - Gemini Furniture, Sohan;43_ocr.txt;8
+44;44_img.png;10:01:59;Odoo - Customers;44_ocr.txt;3
+45;45_img.png;10:02:01;"""Test Mails"" (2) - joseluisalro20@";45_ocr.txt;1
+46;46_img.png;10:02:03;Proof of Payment - joseluisalro2;46_ocr.txt;2
+47;47_img.png;10:02:05;Odoo - Customers;47_ocr.txt;3
+48;48_img.png;10:02:07;Odoo - Gemini Furniture, Oscar;48_ocr.txt;4
+49;49_img.png;10:02:09;Odoo - Gemini Furniture, Oscar;49_ocr.txt;4
+50;50_img.png;10:02:11;Odoo - Gemini Furniture, Oscar;50_ocr.txt;8
+51;51_img.png;10:02:13;Odoo - Customers;51_ocr.txt;3
+52;52_img.png;10:02:15;"""Test Mails"" (2) - joseluisalro20@";52_ocr.txt;1
+53;53_img.png;10:02:17;Proof of Payment - joseluisalro2;53_ocr.txt;2
+54;54_img.png;10:02:19;Odoo - Customers;54_ocr.txt;3
+55;55_img.png;10:02:21;Odoo - Ready Mat, Billy Fox;55_ocr.txt;4
+56;56_img.png;10:02:23;Odoo - Ready Mat, Billy Fox;56_ocr.txt;4
+57;57_img.png;10:02:25;Odoo - Ready Mat, Billy Fox;57_ocr.txt;8
+58;58_img.png;10:02:27;Odoo - Customers;58_ocr.txt;3
