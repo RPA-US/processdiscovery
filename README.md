@@ -29,3 +29,4 @@ The detailed and organized execution results of the presented problems, along wi
 ## Acknowledgments
 - The [CLIP model](https://openai.com/index/clip/) used in this project is from OpenAI.
 - Special thanks to the contributors and maintainers of the open-source libraries used in this project.
+
