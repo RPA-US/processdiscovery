@@ -1,4 +1,6 @@
 /.venv/
-/executions/
 /recopilacion/
-/resources/
+/results/
+/#old/
+env/
+/upload/
