@@ -1,4 +1,4 @@
-# Project Title
+# Activity Identification through Screen Text Experimentation
 
 This project focuses on extracting and combining features from images and text using the CLIP model, performing clustering, and evaluating the results with various metrics. 
 The goal is to analyze UI logs and process them to group different activities from processes. Experiments have been executed with Python 3.10.11.
